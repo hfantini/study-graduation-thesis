@@ -2,9 +2,12 @@
 ## STUDY/RESEARCH
 
 Date: 02/01/2012
+
+
 Authors:
 
 Guilherme Fainer Dalben: https://www.linkedin.com/in/fainer/
+
 Henrique Fantini: https://www.linkedin.com/in/henrique-fantini/
 
 -- X --
