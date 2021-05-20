@@ -23,4 +23,4 @@ This project is about my graduation thesis in the computer science course. It wa
 
 <br />
 
-More information in: https://henriquefantini.com/en/portfolio/3
+More information in: https://henriquefantini.com/#/en/portfolio/3
